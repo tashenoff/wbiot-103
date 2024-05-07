@@ -820,6 +820,18 @@ video {
   margin-top: 1.25rem;
 }
 
+.mt-14 {
+  margin-top: 3.5rem;
+}
+
+.mt-16 {
+  margin-top: 4rem;
+}
+
+.mt-20 {
+  margin-top: 5rem;
+}
+
 .box-border {
   box-sizing: border-box;
 }
@@ -957,6 +969,10 @@ video {
 
 .w-16 {
   width: 4rem;
+}
+
+.w-28 {
+  width: 7rem;
 }
 
 .w-5 {
@@ -2943,6 +2959,10 @@ video {
 @media (min-width: 1024px) {
   .lg\:bottom-20 {
     bottom: 5rem;
+  }
+
+  .lg\:order-1 {
+    order: 1;
   }
 
   .lg\:my-0 {
