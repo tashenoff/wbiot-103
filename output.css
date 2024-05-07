@@ -2947,6 +2947,14 @@ video {
     margin-bottom: 2.5rem;
   }
 
+  .lg\:mt-0 {
+    margin-top: 0px;
+  }
+
+  .lg\:ml-5 {
+    margin-left: 1.25rem;
+  }
+
   .lg\:block {
     display: block;
   }
